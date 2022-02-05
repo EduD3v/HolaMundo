@@ -1,5 +1,5 @@
 # HolaMundo
 Mi primer repositorio de prueba.
 
-Autor: Eduardo M.
+Autor: Cristihan M.
 Fecha: 04 de febrero.
